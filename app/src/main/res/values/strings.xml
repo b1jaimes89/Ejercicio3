@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name" translatable="false">La Tiendita</string>
+    <string name="don" translatable="false">¡ DON PEPE !</string>
+    <string name="de">De:</string>
+    <string name="gratis">! GRATIS ¡</string>
+    <string name="base" translatable="false">https://www.serverbpw.com/cm/2020-2/products.php</string>
+    <string name="urlelemento" translatable="false">https://www.serverbpw.com/cm/2020-2/product_detail.php?id=</string>
+    <string name="errorco">Error, verifica conexión a internet</string>
+</resources>

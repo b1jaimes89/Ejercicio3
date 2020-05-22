@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="de">"From: "</string>
+    <string name="gratis">Free!</string>
+    <string name="errorco">Connection error has occurred</string>
+</resources>
